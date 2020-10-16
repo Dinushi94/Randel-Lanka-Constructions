@@ -24,7 +24,7 @@ footer{
 
 .media{
     position: absolute;
-    left: 50%;
+    left: 5px;
     margin-top:50px;
     transform: translate(-53%, -50%);
 }
